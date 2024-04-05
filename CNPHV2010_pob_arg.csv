@@ -1,0 +1,527 @@
+"provincia","departamento","pob_2010"
+"CABA","COMUNA 1",205886
+"CABA","COMUNA 2",157932
+"CABA","COMUNA 3",187537
+"CABA","COMUNA 4",218245
+"CABA","COMUNA 5",179005
+"CABA","COMUNA 6",176076
+"CABA","COMUNA 7",220591
+"CABA","COMUNA 8",187237
+"CABA","COMUNA 9",161797
+"CABA","COMUNA 10",166022
+"CABA","COMUNA 11",189832
+"CABA","COMUNA 12",200116
+"CABA","COMUNA 13",231331
+"CABA","COMUNA 14",225970
+"CABA","COMUNA 15",182574
+"Buenos Aires","ALMIRANTE BROWN",552902
+"Buenos Aires","AVELLANEDA",342677
+"Buenos Aires","BERAZATEGUI",324244
+"Buenos Aires","ESTEBAN ECHEVERRIA",300959
+"Buenos Aires","EZEIZA",163722
+"Buenos Aires","FLORENCIO VARELA",426005
+"Buenos Aires","GENERAL SAN MARTIN",414196
+"Buenos Aires","HURLINGHAM",181241
+"Buenos Aires","ITUZAINGO",167824
+"Buenos Aires","JOSE C. PAZ",265981
+"Buenos Aires","LA MATANZA",1775816
+"Buenos Aires","LANUS",459263
+"Buenos Aires","LOMAS DE ZAMORA",616279
+"Buenos Aires","MALVINAS ARGENTINAS",322375
+"Buenos Aires","MERLO",528494
+"Buenos Aires","MORENO",452505
+"Buenos Aires","MORON",321109
+"Buenos Aires","QUILMES",582943
+"Buenos Aires","SAN FERNANDO",163240
+"Buenos Aires","SAN ISIDRO",292878
+"Buenos Aires","SAN MIGUEL",276190
+"Buenos Aires","TIGRE",376381
+"Buenos Aires","TRES DE FEBRERO",340071
+"Buenos Aires","VICENTE LOPEZ",269420
+"Buenos Aires","ADOLFO ALSINA",17072
+"Buenos Aires","ADOLFO GONZALES CHAVES",12047
+"Buenos Aires","ALBERTI",10654
+"Buenos Aires","ARRECIFES",29044
+"Buenos Aires","AYACUCHO",20337
+"Buenos Aires","AZUL",65280
+"Buenos Aires","BAHIA BLANCA",301572
+"Buenos Aires","BALCARCE",43823
+"Buenos Aires","BARADERO",32761
+"Buenos Aires","BENITO JUAREZ",20239
+"Buenos Aires","BERISSO",88470
+"Buenos Aires","BOLIVAR",34190
+"Buenos Aires","BRAGADO",41336
+"Buenos Aires","BRANDSEN",26367
+"Buenos Aires","CAMPANA",94461
+"Buenos Aires","CAÑUELAS",51892
+"Buenos Aires","CAPITAN SARMIENTO",14494
+"Buenos Aires","CARLOS CASARES",22237
+"Buenos Aires","CARLOS TEJEDOR",11570
+"Buenos Aires","CARMEN DE ARECO",14692
+"Buenos Aires","CASTELLI",8205
+"Buenos Aires","CHACABUCO",48703
+"Buenos Aires","CHASCOMUS",42277
+"Buenos Aires","CHIVILCOY",64185
+"Buenos Aires","COLON",24890
+"Buenos Aires","CORONEL DE MARINA LEONARDO ROSALES",62152
+"Buenos Aires","CORONEL DORREGO",15825
+"Buenos Aires","CORONEL PRINGLES",22933
+"Buenos Aires","CORONEL SUAREZ",38320
+"Buenos Aires","DAIREAUX",16889
+"Buenos Aires","DOLORES",27042
+"Buenos Aires","ENSENADA",56729
+"Buenos Aires","ESCOBAR",213619
+"Buenos Aires","EXALTACION DE LA CRUZ",29805
+"Buenos Aires","FLORENTINO AMEGHINO",8869
+"Buenos Aires","GENERAL ALVARADO",39594
+"Buenos Aires","GENERAL ALVEAR",11130
+"Buenos Aires","GENERAL ARENALES",14903
+"Buenos Aires","GENERAL BELGRANO",17365
+"Buenos Aires","GENERAL GUIDO",2816
+"Buenos Aires","GENERAL JUAN MADARIAGA",19747
+"Buenos Aires","GENERAL LA MADRID",10783
+"Buenos Aires","GENERAL LAS HERAS",14889
+"Buenos Aires","GENERAL LAVALLE",3700
+"Buenos Aires","GENERAL PAZ",11202
+"Buenos Aires","GENERAL PINTO",11261
+"Buenos Aires","GENERAL PUEYRREDON",618989
+"Buenos Aires","GENERAL RODRIGUEZ",87185
+"Buenos Aires","GENERAL VIAMONTE",18078
+"Buenos Aires","GENERAL VILLEGAS",30864
+"Buenos Aires","GUAMINI",11826
+"Buenos Aires","HIPOLITO YRIGOYEN",9585
+"Buenos Aires","JUNIN",90305
+"Buenos Aires","LA COSTA",69633
+"Buenos Aires","LA PLATA",654324
+"Buenos Aires","LAPRIDA",10210
+"Buenos Aires","LAS FLORES",23871
+"Buenos Aires","LEANDRO N. ALEM",16799
+"Buenos Aires","LINCOLN",41808
+"Buenos Aires","LOBERIA",17523
+"Buenos Aires","LOBOS",36172
+"Buenos Aires","LUJAN",106273
+"Buenos Aires","MAGDALENA",19301
+"Buenos Aires","MAIPU",10188
+"Buenos Aires","MAR CHIQUITA",21279
+"Buenos Aires","MARCOS PAZ",54181
+"Buenos Aires","MERCEDES",63284
+"Buenos Aires","MONTE",21034
+"Buenos Aires","MONTE HERMOSO",6499
+"Buenos Aires","NAVARRO",17054
+"Buenos Aires","NECOCHEA",92933
+"Buenos Aires","9 DE JULIO",47722
+"Buenos Aires","OLAVARRIA",111708
+"Buenos Aires","PATAGONES",30207
+"Buenos Aires","PEHUAJO",39776
+"Buenos Aires","PELLEGRINI",5887
+"Buenos Aires","PERGAMINO",104590
+"Buenos Aires","PILA",3640
+"Buenos Aires","PILAR",299077
+"Buenos Aires","PINAMAR",25728
+"Buenos Aires","PRESIDENTE PERON",81141
+"Buenos Aires","PUAN",15743
+"Buenos Aires","PUNTA INDIO",9888
+"Buenos Aires","RAMALLO",33042
+"Buenos Aires","RAUCH",15176
+"Buenos Aires","RIVADAVIA",17143
+"Buenos Aires","ROJAS",23432
+"Buenos Aires","ROQUE PEREZ",12513
+"Buenos Aires","SAAVEDRA",20749
+"Buenos Aires","SALADILLO",32103
+"Buenos Aires","SALLIQUELO",8644
+"Buenos Aires","SALTO",32653
+"Buenos Aires","SAN ANDRES DE GILES",23027
+"Buenos Aires","SAN ANTONIO DE ARECO",23138
+"Buenos Aires","SAN CAYETANO",8399
+"Buenos Aires","SAN NICOLAS",145857
+"Buenos Aires","SAN PEDRO",59036
+"Buenos Aires","SAN VICENTE",59478
+"Buenos Aires","SUIPACHA",10081
+"Buenos Aires","TANDIL",123871
+"Buenos Aires","TAPALQUE",9178
+"Buenos Aires","TORDILLO",1764
+"Buenos Aires","TORNQUIST",12723
+"Buenos Aires","TRENQUE LAUQUEN",43021
+"Buenos Aires","TRES ARROYOS",57110
+"Buenos Aires","TRES LOMAS",8700
+"Buenos Aires","25 DE MAYO",35842
+"Buenos Aires","VILLA GESELL",31730
+"Buenos Aires","VILLARINO",31014
+"Buenos Aires","ZARATE",114269
+"Catamarca","AMBATO",4463
+"Catamarca","ANCASTI",2917
+"Catamarca","ANDALGALA",18132
+"Catamarca","ANTOFAGASTA DE LA SIERRA",1436
+"Catamarca","BELEN",27843
+"Catamarca","CAPAYAN",16085
+"Catamarca","CAPITAL",159703
+"Catamarca","EL ALTO",3570
+"Catamarca","FRAY MAMERTO ESQUIU",11896
+"Catamarca","LA PAZ",22638
+"Catamarca","PACLIN",4185
+"Catamarca","POMAN",10776
+"Catamarca","SANTA MARIA",22548
+"Catamarca","SANTA ROSA",12034
+"Catamarca","TINOGASTA",22360
+"Catamarca","VALLE VIEJO",27242
+"Chaco","ALMIRANTE BROWN",34075
+"Chaco","BERMEJO",25052
+"Chaco","CHACABUCO",30590
+"Chaco","COMANDANTE FERNANDEZ",96944
+"Chaco","12 DE OCTUBRE",22281
+"Chaco","2 DE ABRIL",7432
+"Chaco","FRAY JUSTO SANTA MARIA DE ORO",11826
+"Chaco","GENERAL BELGRANO",11988
+"Chaco","GENERAL DONOVAN",13490
+"Chaco","GENERAL GÜEMES",67132
+"Chaco","INDEPENDENCIA",22411
+"Chaco","LIBERTAD",12158
+"Chaco","LIBERTADOR GENERAL SAN MARTIN",59147
+"Chaco","MAIPU",25288
+"Chaco","MAYOR LUIS J. FONTANA",55080
+"Chaco","9 DE JULIO",28555
+"Chaco","O'HIGGINS",20131
+"Chaco","PRESIDENCIA DE LA PLAZA",12499
+"Chaco","1º DE MAYO",10322
+"Chaco","QUITILIPI",34081
+"Chaco","SAN FERNANDO",390874
+"Chaco","SAN LORENZO",14702
+"Chaco","SARGENTO CABRAL",15889
+"Chaco","TAPENAGA",4097
+"Chaco","25 DE MAYO",29215
+"Chubut","BIEDMA",82883
+"Chubut","CUSHAMEN",20919
+"Chubut","ESCALANTE",186583
+"Chubut","FLORENTINO AMEGHINO",1627
+"Chubut","FUTALEUFU",43076
+"Chubut","GAIMAN",11141
+"Chubut","GASTRE",1427
+"Chubut","LANGUIÑEO",3085
+"Chubut","MARTIRES",778
+"Chubut","PASO DE INDIOS",1867
+"Chubut","RAWSON",131313
+"Chubut","RIO SENGUER",5979
+"Chubut","SARMIENTO",11396
+"Chubut","TEHUELCHES",5390
+"Chubut","TELSEN",1644
+"Córdoba","CALAMUCHITA",54730
+"Córdoba","CAPITAL",1329604
+"Córdoba","COLON",225151
+"Córdoba","CRUZ DEL EJE",58759
+"Córdoba","GENERAL ROCA",35645
+"Córdoba","GENERAL SAN MARTIN",127454
+"Córdoba","ISCHILIN",31312
+"Córdoba","JUAREZ CELMAN",61078
+"Córdoba","MARCOS JUAREZ",104205
+"Córdoba","MINAS",4727
+"Córdoba","POCHO",5380
+"Córdoba","PRESIDENTE ROQUE SAENZ PEÑA",36282
+"Córdoba","PUNILLA",178401
+"Córdoba","RIO CUARTO",246393
+"Córdoba","RIO PRIMERO",46675
+"Córdoba","RIO SECO",13242
+"Córdoba","RIO SEGUNDO",103718
+"Córdoba","SAN ALBERTO",37004
+"Córdoba","SAN JAVIER",53520
+"Córdoba","SAN JUSTO",206307
+"Córdoba","SANTA MARIA",98188
+"Córdoba","SOBREMONTE",4591
+"Córdoba","TERCERO ARRIBA",109554
+"Córdoba","TOTORAL",18556
+"Córdoba","TULUMBA",12673
+"Córdoba","UNION",105727
+"Corrientes","BELLA VISTA",37181
+"Corrientes","BERON DE ASTRADA",2461
+"Corrientes","CAPITAL",358223
+"Corrientes","CONCEPCION",21113
+"Corrientes","CURUZU CUATIA",44384
+"Corrientes","EMPEDRADO",15109
+"Corrientes","ESQUINA",30802
+"Corrientes","GENERAL ALVEAR",7926
+"Corrientes","GENERAL PAZ",14836
+"Corrientes","GOYA",89959
+"Corrientes","ITATI",9171
+"Corrientes","ITUZAINGO",31150
+"Corrientes","LAVALLE",28759
+"Corrientes","MBURUCUYA",9252
+"Corrientes","MERCEDES",40667
+"Corrientes","MONTE CASEROS",36338
+"Corrientes","PASO DE LOS LIBRES",48642
+"Corrientes","SALADAS",22244
+"Corrientes","SAN COSME",14381
+"Corrientes","SAN LUIS DEL PALMAR",17590
+"Corrientes","SAN MARTIN",13140
+"Corrientes","SAN MIGUEL",10572
+"Corrientes","SAN ROQUE",18366
+"Corrientes","SANTO TOME",61297
+"Corrientes","SAUCE",9032
+"Entre Ríos","COLON",62160
+"Entre Ríos","CONCORDIA",170033
+"Entre Ríos","DIAMANTE",46361
+"Entre Ríos","FEDERACION",68736
+"Entre Ríos","FEDERAL",25863
+"Entre Ríos","FELICIANO",15079
+"Entre Ríos","GUALEGUAY",51883
+"Entre Ríos","GUALEGUAYCHU",109461
+"Entre Ríos","ISLAS DEL IBICUY",12077
+"Entre Ríos","LA PAZ",66903
+"Entre Ríos","NOGOYA",39026
+"Entre Ríos","PARANA",339930
+"Entre Ríos","SAN SALVADOR",17357
+"Entre Ríos","TALA",25665
+"Entre Ríos","URUGUAY",100728
+"Entre Ríos","VICTORIA",35767
+"Entre Ríos","VILLAGUAY",48965
+"Formosa","BERMEJO",14046
+"Formosa","FORMOSA",234354
+"Formosa","LAISHI",17063
+"Formosa","MATACOS",14375
+"Formosa","PATIÑO",68581
+"Formosa","PILAGAS",18399
+"Formosa","PILCOMAYO",85024
+"Formosa","PIRANE",64566
+"Formosa","RAMON LISTA",13754
+"Jujuy","COCHINOCA",12656
+"Jujuy","DR. MANUEL BELGRANO",265249
+"Jujuy","EL CARMEN",97039
+"Jujuy","HUMAHUACA",17366
+"Jujuy","LEDESMA",81790
+"Jujuy","PALPALA",52631
+"Jujuy","RINCONADA",2488
+"Jujuy","SAN ANTONIO",4466
+"Jujuy","SAN PEDRO",75037
+"Jujuy","SANTA BARBARA",17730
+"Jujuy","SANTA CATALINA",2800
+"Jujuy","SUSQUES",3791
+"Jujuy","TILCARA",12349
+"Jujuy","TUMBAYA",4658
+"Jujuy","VALLE GRANDE",2451
+"Jujuy","YAVI",20806
+"La Pampa","ATREUCO",10153
+"La Pampa","CALEU CALEU",2313
+"La Pampa","CAPITAL",105312
+"La Pampa","CATRILO",7293
+"La Pampa","CHALILEO",2985
+"La Pampa","CHAPALEUFU",11620
+"La Pampa","CHICAL CO",1502
+"La Pampa","CONHELO",14077
+"La Pampa","CURACO",1040
+"La Pampa","GUATRACHE",8831
+"La Pampa","HUCAL",7540
+"La Pampa","LIHUEL CALEL",439
+"La Pampa","LIMAY MAHUIDA",503
+"La Pampa","LOVENTUE",8619
+"La Pampa","MARACO",59024
+"La Pampa","PUELEN",9468
+"La Pampa","QUEMU QUEMU",8663
+"La Pampa","RANCUL",10668
+"La Pampa","REALICO",16227
+"La Pampa","TOAY",12409
+"La Pampa","TRENEL",5426
+"La Pampa","UTRACAN",14839
+"La Rioja","ARAUCO",15418
+"La Rioja","ANGEL VICENTE PEÑALOZA",3073
+"La Rioja","CAPITAL",180995
+"La Rioja","CASTRO BARROS",4268
+"La Rioja","CHAMICAL",14160
+"La Rioja","CHILECITO",49432
+"La Rioja","FAMATINA",5863
+"La Rioja","GENERAL BELGRANO",7370
+"La Rioja","GENERAL FELIPE VARELA",9648
+"La Rioja","GENERAL JUAN FACUNDO QUIROGA",4108
+"La Rioja","GENERAL LAMADRID",1734
+"La Rioja","GENERAL ORTIZ DE OCAMPO",7145
+"La Rioja","GENERAL SAN MARTIN",4944
+"La Rioja","INDEPENDENCIA",2427
+"La Rioja","ROSARIO VERA PEÑALOZA",14054
+"La Rioja","SAN BLAS DE LOS SAUCES",3927
+"La Rioja","SANAGASTA",2345
+"La Rioja","VINCHINA",2731
+"Mendoza","CAPITAL",115041
+"Mendoza","GENERAL ALVEAR",46429
+"Mendoza","GODOY CRUZ",191903
+"Mendoza","GUAYMALLEN",283803
+"Mendoza","JUNIN",37859
+"Mendoza","LA PAZ",10012
+"Mendoza","LAS HERAS",203666
+"Mendoza","LAVALLE",36738
+"Mendoza","LUJAN DE CUYO",119888
+"Mendoza","MAIPU",172332
+"Mendoza","MALARGÜE",27660
+"Mendoza","RIVADAVIA",56373
+"Mendoza","SAN CARLOS",32631
+"Mendoza","SAN MARTIN",118220
+"Mendoza","SAN RAFAEL",188018
+"Mendoza","SANTA ROSA",16374
+"Mendoza","TUNUYAN",49458
+"Mendoza","TUPUNGATO",32524
+"Misiones","APOSTOLES",42249
+"Misiones","CAINGUAS",53403
+"Misiones","CANDELARIA",27040
+"Misiones","CAPITAL",324756
+"Misiones","CONCEPCION",9577
+"Misiones","ELDORADO",78221
+"Misiones","GENERAL MANUEL BELGRANO",42902
+"Misiones","GUARANI",67897
+"Misiones","IGUAZU",82227
+"Misiones","LEANDRO N. ALEM",45075
+"Misiones","LIBERTADOR GENERAL SAN MARTIN",46561
+"Misiones","MONTECARLO",36745
+"Misiones","OBERA",107501
+"Misiones","SAN IGNACIO",57728
+"Misiones","SAN JAVIER",20906
+"Misiones","SAN PEDRO",31051
+"Misiones","25 DE MAYO",27754
+"Neuquén","ALUMINE",8306
+"Neuquén","AÑELO",10786
+"Neuquén","CATAN LIL",2155
+"Neuquén","CHOS MALAL",15256
+"Neuquén","COLLON CURA",4532
+"Neuquén","CONFLUENCIA",362673
+"Neuquén","HUILICHES",14725
+"Neuquén","LACAR",29748
+"Neuquén","LONCOPUE",6925
+"Neuquén","LOS LAGOS",11998
+"Neuquén","MINAS",7234
+"Neuquén","ÑORQUIN",4692
+"Neuquén","PEHUENCHES",24087
+"Neuquén","PICUN LEUFU",4578
+"Neuquén","PICUNCHES",7022
+"Neuquén","ZAPALA",36549
+"Río Negro","ADOLFO ALSINA",57678
+"Río Negro","AVELLANEDA",35323
+"Río Negro","BARILOCHE",133500
+"Río Negro","CONESA",7069
+"Río Negro","EL CUY",5280
+"Río Negro","GENERAL ROCA",320921
+"Río Negro","9 DE JULIO",3475
+"Río Negro","ÑORQUINCO",1736
+"Río Negro","PICHI MAHUIDA",14107
+"Río Negro","PILCANIYEU",7428
+"Río Negro","SAN ANTONIO",29284
+"Río Negro","VALCHETA",7101
+"Río Negro","25 DE MAYO",15743
+"Salta","ANTA",57411
+"Salta","CACHI",7315
+"Salta","CAFAYATE",14850
+"Salta","CAPITAL",536113
+"Salta","CERRILLOS",35789
+"Salta","CHICOANA",20710
+"Salta","GENERAL GÜEMES",47226
+"Salta","GENERAL JOSE DE SAN MARTIN",156910
+"Salta","GUACHIPAS",3187
+"Salta","IRUYA",5987
+"Salta","LA CALDERA",7763
+"Salta","LA CANDELARIA",5704
+"Salta","LA POMA",1738
+"Salta","LA VIÑA",7435
+"Salta","LOS ANDES",6050
+"Salta","METAN",40351
+"Salta","MOLINOS",5652
+"Salta","ORAN",138838
+"Salta","RIVADAVIA",30357
+"Salta","ROSARIO DE LA FRONTERA",28993
+"Salta","ROSARIO DE LERMA",38702
+"Salta","SAN CARLOS",7016
+"Salta","SANTA VICTORIA",10344
+"San Juan","ALBARDON",23888
+"San Juan","ANGACO",8125
+"San Juan","CALINGASTA",8588
+"San Juan","CAPITAL",109123
+"San Juan","CAUCETE",38343
+"San Juan","CHIMBAS",87258
+"San Juan","IGLESIA",9099
+"San Juan","JACHAL",21730
+"San Juan","9 DE JULIO",9307
+"San Juan","POCITO",53162
+"San Juan","RAWSON",114368
+"San Juan","RIVADAVIA",82641
+"San Juan","SAN MARTIN",11115
+"San Juan","SANTA LUCIA",48087
+"San Juan","SARMIENTO",22131
+"San Juan","ULLUM",4886
+"San Juan","VALLE FERTIL",7222
+"San Juan","25 DE MAYO",17119
+"San Juan","ZONDA",4863
+"San Luis","AYACUCHO",19087
+"San Luis","BELGRANO",3985
+"San Luis","CHACABUCO",20744
+"San Luis","CORONEL PRINGLES",13157
+"San Luis","GENERAL PEDERNERA",125899
+"San Luis","GOBERNADOR DUPUY",11779
+"San Luis","JUAN MARTIN DE PUEYRREDON",204019
+"San Luis","JUNIN",28933
+"San Luis","LIBERTADOR GENERAL SAN MARTIN",4707
+"Santa Cruz","CORPEN AIKE",11093
+"Santa Cruz","DESEADO",107630
+"Santa Cruz","GÜER AIKE",113267
+"Santa Cruz","LAGO ARGENTINO",18864
+"Santa Cruz","LAGO BUENOS AIRES",8750
+"Santa Cruz","MAGALLANES",9202
+"Santa Cruz","RIO CHICO",5158
+"Santa Fe","BELGRANO",44788
+"Santa Fe","CASEROS",82100
+"Santa Fe","CASTELLANOS",178092
+"Santa Fe","CONSTITUCION",86910
+"Santa Fe","GARAY",20890
+"Santa Fe","GENERAL LOPEZ",191024
+"Santa Fe","GENERAL OBLIGADO",176410
+"Santa Fe","IRIONDO",66675
+"Santa Fe","LA CAPITAL",525093
+"Santa Fe","LAS COLONIAS",104946
+"Santa Fe","9 DE JULIO",29832
+"Santa Fe","ROSARIO",1193605
+"Santa Fe","SAN CRISTOBAL",68878
+"Santa Fe","SAN JAVIER",30959
+"Santa Fe","SAN JERONIMO",80840
+"Santa Fe","SAN JUSTO",40904
+"Santa Fe","SAN LORENZO",157255
+"Santa Fe","SAN MARTIN",63842
+"Santa Fe","VERA",51494
+"Santiago del Estero","AGUIRRE",7610
+"Santiago del Estero","ALBERDI",17252
+"Santiago del Estero","ATAMISQUI",10923
+"Santiago del Estero","AVELLANEDA",20763
+"Santiago del Estero","BANDA",142279
+"Santiago del Estero","BELGRANO",9243
+"Santiago del Estero","CAPITAL",267125
+"Santiago del Estero","CHOYA",34667
+"Santiago del Estero","COPO",31404
+"Santiago del Estero","FIGUEROA",17820
+"Santiago del Estero","GENERAL TABOADA",38105
+"Santiago del Estero","GUASAYAN",7602
+"Santiago del Estero","JIMENEZ",14352
+"Santiago del Estero","JUAN FELIPE IBARRA",18051
+"Santiago del Estero","LORETO",20036
+"Santiago del Estero","MITRE",1890
+"Santiago del Estero","MORENO",32130
+"Santiago del Estero","OJO DE AGUA",14008
+"Santiago del Estero","PELLEGRINI",20514
+"Santiago del Estero","QUEBRACHOS",10568
+"Santiago del Estero","RIO HONDO",54867
+"Santiago del Estero","RIVADAVIA",5015
+"Santiago del Estero","ROBLES",44415
+"Santiago del Estero","SALAVINA",11217
+"Santiago del Estero","SAN MARTIN",9831
+"Santiago del Estero","SARMIENTO",4607
+"Santiago del Estero","SILIPICA",7712
+"Tierra del Fuego","ANTARTIDA ARGENTINA E ISLAS DEL ATLANTICO SUR",207
+"Tierra del Fuego","RIO GRANDE",70042
+"Tierra del Fuego","USHUAIA",56956
+"Tucumán","BURRUYACU",36951
+"Tucumán","CAPITAL",548866
+"Tucumán","CHICLIGASTA",80735
+"Tucumán","CRUZ ALTA",180499
+"Tucumán","FAMAILLA",34542
+"Tucumán","GRANEROS",13551
+"Tucumán","JUAN BAUTISTA ALBERDI",30237
+"Tucumán","LA COCHA",19002
+"Tucumán","LEALES",54949
+"Tucumán","LULES",68474
+"Tucumán","MONTEROS",63641
+"Tucumán","RIO CHICO",56847
+"Tucumán","SIMOCA",30876
+"Tucumán","TAFI DEL VALLE",14933
+"Tucumán","TAFI VIEJO",121638
+"Tucumán","TRANCAS",17371
+"Tucumán","YERBA BUENA",75076
